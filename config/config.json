@@ -17,9 +17,9 @@
   "production": {
     "use_env_variable": "MYSQL_URL",
     "username": "root",
-    "password": "root",
+    "password": null,
     "database": "GeeksHubsSequelize",
-    "host": "containers-us-west-205.railway.app",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
 }
