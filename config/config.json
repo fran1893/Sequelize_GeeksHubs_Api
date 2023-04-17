@@ -15,7 +15,6 @@
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "mysql://root:LUlOCMxj1l87WBgS9E35@containers-us-west-205.railway.app:7024/railway",
     "username": "root",
     "password": "root",
     "database": "GeeksHubsSequelize",
