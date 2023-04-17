@@ -15,11 +15,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "DATABASE_URL",
+    "use_env_variable": "mysql://root:LUlOCMxj1l87WBgS9E35@containers-us-west-205.railway.app:7024/railway",
     "username": "root",
     "password": "root",
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "database": "GeeksHubsSequelize",
+    "host": "containers-us-west-205.railway.app",
     "dialect": "mysql"
   }
 }
